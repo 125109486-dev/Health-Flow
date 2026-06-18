@@ -1,0 +1,28 @@
+Hospital,hospital_beds,source,ed_trolleys,ward_trolleys,total_trolleys,surge_capacity,delayed_transfers,waiting_over_24hrs,over75_waiting_24hrs,snapshot_date_x,region,daily_ed_trolleys,daily_ward_trolleys,daily_total,weekly_ed_trolleys,weekly_ward_trolleys,weekly_total,yearly_ed_trolleys,yearly_ward_trolleys,yearly_total,snapshot_date_y,trolley_load,occupancy_rate_pct,traffic_light_status,wait_tier,is_bank_holiday
+Bantry General Hospital,46,doh open beds report march 2021,0,0,0,0,9,0,0,19/05/2026,country,0,3,3,38,0,38,438,0,438,19/05/2026,0,0,Green,No breach,FALSE
+Beaumont Hospital,718,doh open beds report march 2021,12,0,12,26,24,0,0,19/05/2026,eastern,19,0,19,149,0,149,1455,0,1455,19/05/2026,12,1.7,Green,No breach,FALSE
+Cavan General Hospital,231,doh open beds report march 2021,8,0,8,6,3,0,0,19/05/2026,country,9,0,9,111,0,111,2432,1764,4196,19/05/2026,8,3.5,Green,No breach,FALSE
+Connolly Hospital Blanchardstown,303,doh open beds report march 2021,0,0,0,4,4,0,0,19/05/2026,eastern,6,0,6,57,0,57,1471,0,1471,19/05/2026,0,0,Green,No breach,FALSE
+Cork University Hospital,664,doh open beds report march 2021,29,10,39,46,37,4,1,19/05/2026,country,34,10,44,382,91,473,0,548,548,19/05/2026,39,5.9,Amber,Low breach,FALSE
+Ennis Hospital,50,doh open beds report march 2021,0,0,0,0,5,0,0,19/05/2026,country,0,13,13,328,734,1062,3042,1938,4980,19/05/2026,0,0,Green,No breach,FALSE
+Galway University Hospitals,663,doh open beds report march 2021,13,16,29,43,32,3,0,19/05/2026,country,29,16,45,300,196,496,822,1337,2159,19/05/2026,29,4.4,Amber,Low breach,FALSE
+Letterkenny University Hospital,350,doh open beds report march 2021,4,2,6,12,38,0,0,19/05/2026,country,4,14,18,226,211,437,293,321,614,19/05/2026,6,1.7,Green,No breach,FALSE
+Mater Misericordiae University Hospital,678,doh open beds report march 2021,22,0,22,49,17,1,0,19/05/2026,eastern,32,0,32,300,0,300,2167,0,2167,19/05/2026,22,3.2,Green,Low breach,FALSE
+Mayo University Hospital,255,doh open beds report march 2021,7,15,22,12,8,14,0,19/05/2026,country,7,15,22,93,152,245,3225,978,4203,19/05/2026,22,8.6,Red,Moderate breach,FALSE
+Mercy University Hospital,198,doh open beds report march 2021,3,0,3,20,17,0,0,19/05/2026,country,3,6,9,65,31,96,1190,459,1649,19/05/2026,3,1.5,Green,No breach,FALSE
+Midland Regional Hospital Mullingar,184,doh open beds report march 2021,8,2,10,0,2,0,0,19/05/2026,country,8,2,10,49,2,51,546,781,1327,19/05/2026,10,5.4,Amber,No breach,FALSE
+Midland Regional Hospital Portlaoise,133,doh open beds report march 2021,8,0,8,14,3,0,0,19/05/2026,country,8,0,8,99,0,99,1254,598,1852,19/05/2026,8,6,Amber,No breach,FALSE
+Naas General Hospital,178,doh open beds report march 2021,16,0,16,22,10,2,0,19/05/2026,eastern,16,0,16,138,19,157,1351,0,1351,19/05/2026,16,9,Red,Low breach,FALSE
+Our Lady of Lourdes Hospital,426,doh open beds report march 2021,4,0,4,33,11,0,0,19/05/2026,country,9,0,9,101,0,101,882,0,882,19/05/2026,4,0.9,Green,No breach,FALSE
+Our Lady's Children's Hospital Crumlin,184,doh open beds report march 2021,,,,,,,,,paediatric,2,0,2,54,3,57,383,52,435,19/05/2026,2,1.1,Green,No breach,FALSE
+Portiuncula University Hospital,163,doh open beds report march 2021,7,0,7,6,10,0,0,19/05/2026,country,7,5,12,42,14,56,1425,358,1783,19/05/2026,7,4.3,Amber,No breach,FALSE
+Sligo University Hospital,281,doh open beds report march 2021,5,8,13,27,29,4,0,19/05/2026,country,22,19,41,7,0,7,1036,2254,3290,19/05/2026,13,4.6,Amber,Low breach,FALSE
+St Jamess Hospital,680,doh open beds report march 2021,,,,,,,,,,,,,,,,,,,,14,2.1,Green,No breach,FALSE
+St Lukes General Hospital,188,doh open beds report march 2021,,,,,,,,,,,,,,,,,,,,12,6.4,Amber,No breach,FALSE
+St. Vincent's University Hospital,523,doh open beds report march 2021,39,10,49,62,28,12,2,19/05/2026,eastern,45,10,55,379,54,433,3105,568,3673,19/05/2026,49,9.4,Red,Moderate breach,FALSE
+Tallaght University Hospital,397,doh open beds report march 2021,0,0,0,12,10,0,0,19/05/2026,paediatric,1,0,1,65,72,137,79,0,79,19/05/2026,0,0,Green,No breach,FALSE
+Temple Street Childrens University Hospital,100,doh open beds report march 2021,,,,,,,,,,,,,,,,,,,,1,1,Green,No breach,FALSE
+Tipperary University Hospital,205,doh open beds report march 2021,9,0,9,26,10,2,0,19/05/2026,country,9,13,22,33,47,80,3056,5630,8686,19/05/2026,9,4.4,Amber,Low breach,FALSE
+University Hospital Kerry,272,doh open beds report march 2021,10,0,10,20,16,4,0,19/05/2026,country,10,0,10,115,13,128,453,10,463,19/05/2026,10,3.7,Green,Low breach,FALSE
+University Hospital Limerick,519,doh open beds report march 2021,17,43,60,40,21,29,0,19/05/2026,country,38,59,97,89,118,207,0,577,577,19/05/2026,60,11.6,Red,High breach,FALSE
+Wexford General Hospital,227,doh open beds report march 2021,1,2,3,21,7,1,0,19/05/2026,country,1,2,3,58,188,246,862,999,1861,19/05/2026,3,1.3,Green,Low breach,FALSE
